@@ -67,6 +67,3 @@ This project is for educational purposes only.
 
 ***
 
-You can copy and paste this content into a new file named `README.md` in your GitHub project root. Let me know if you need any customization or a ready-made requirements.txt template!
-
-[1](https://github.com/83Aayush/Web_Hotel_Management)
